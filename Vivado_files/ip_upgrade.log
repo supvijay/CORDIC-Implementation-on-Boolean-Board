@@ -1,0 +1,431 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Mon Aug 24 22:58:01 2026
+| Host         : DESKTOP-VA22LR3 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7s50csga324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Cordic_xlslice_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of Block_Cordic_xlslice_0_0 (xilinx.com:ip:xlslice:1.0 (Rev. 5)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Mon Aug 24 22:58:01 2026
+| Host         : DESKTOP-VA22LR3 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7s50csga324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Cordic_xlconcat_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of Block_Cordic_xlconcat_0_0 (xilinx.com:ip:xlconcat:2.1 (Rev. 7)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Mon Aug 24 22:58:01 2026
+| Host         : DESKTOP-VA22LR3 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7s50csga324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Cordic_vio_0_2'
+
+1. Summary
+----------
+
+SUCCESS in the update of Block_Cordic_vio_0_2 (xilinx.com:ip:vio:3.0 (Rev. 27)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Mon Aug 24 22:58:01 2026
+| Host         : DESKTOP-VA22LR3 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7s50csga324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Cordic_rst_clk_wiz_0_100M_2'
+
+1. Summary
+----------
+
+SUCCESS in the update of Block_Cordic_rst_clk_wiz_0_100M_2 (xilinx.com:ip:proc_sys_reset:5.0 (Rev. 17)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Mon Aug 24 22:58:01 2026
+| Host         : DESKTOP-VA22LR3 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7s50csga324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Cordic_microblaze_0_4'
+
+1. Summary
+----------
+
+SUCCESS in the update of Block_Cordic_microblaze_0_4 (xilinx.com:ip:microblaze:11.0 (Rev. 16)) to current project options.
+
+2. Upgrade messages
+-------------------
+
+Set parameter C_BASE_VECTORS to value 0x0000000000000000 (source 'default')
+Set parameter C_M_AXI_DP_ADDR_WIDTH to value 32 (source 'default')
+Set parameter C_M_AXI_DC_ADDR_WIDTH to value 32 (source 'default')
+Set parameter C_M_AXI_IP_ADDR_WIDTH to value 32 (source 'default')
+Set parameter C_M_AXI_IC_ADDR_WIDTH to value 32 (source 'default')
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Mon Aug 24 22:58:01 2026
+| Host         : DESKTOP-VA22LR3 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7s50csga324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Cordic_mdm_1_3'
+
+1. Summary
+----------
+
+SUCCESS in the update of Block_Cordic_mdm_1_3 (xilinx.com:ip:mdm:3.2 (Rev. 29)) to current project options.
+
+2. Upgrade messages
+-------------------
+
+Set parameter C_M_AXIS_ID_WIDTH to value 7 (source 'default')
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Mon Aug 24 22:58:01 2026
+| Host         : DESKTOP-VA22LR3 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7s50csga324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Cordic_lmb_bram_4'
+
+1. Summary
+----------
+
+SUCCESS in the update of Block_Cordic_lmb_bram_4 (xilinx.com:ip:blk_mem_gen:8.4 (Rev. 12)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Mon Aug 24 22:58:01 2026
+| Host         : DESKTOP-VA22LR3 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7s50csga324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Cordic_ilmb_v10_4'
+
+1. Summary
+----------
+
+SUCCESS in the update of Block_Cordic_ilmb_v10_4 (xilinx.com:ip:lmb_v10:3.0 (Rev. 16)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Mon Aug 24 22:58:01 2026
+| Host         : DESKTOP-VA22LR3 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7s50csga324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Cordic_ilmb_bram_if_cntlr_4'
+
+1. Summary
+----------
+
+SUCCESS in the update of Block_Cordic_ilmb_bram_if_cntlr_4 (xilinx.com:ip:lmb_bram_if_cntlr:4.0 (Rev. 27)) to current project options.
+
+2. Upgrade messages
+-------------------
+
+Set parameter C_MASK1 to value 0x0000000000800000 (source 'default')
+Set parameter C_MASK2 to value 0x0000000000800000 (source 'default')
+Set parameter C_MASK3 to value 0x0000000000800000 (source 'default')
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Mon Aug 24 22:58:01 2026
+| Host         : DESKTOP-VA22LR3 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7s50csga324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Cordic_dlmb_v10_4'
+
+1. Summary
+----------
+
+SUCCESS in the update of Block_Cordic_dlmb_v10_4 (xilinx.com:ip:lmb_v10:3.0 (Rev. 16)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Mon Aug 24 22:58:01 2026
+| Host         : DESKTOP-VA22LR3 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7s50csga324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Cordic_dlmb_bram_if_cntlr_4'
+
+1. Summary
+----------
+
+SUCCESS in the update of Block_Cordic_dlmb_bram_if_cntlr_4 (xilinx.com:ip:lmb_bram_if_cntlr:4.0 (Rev. 27)) to current project options.
+
+2. Upgrade messages
+-------------------
+
+Set parameter C_MASK1 to value 0x0000000000800000 (source 'default')
+Set parameter C_MASK2 to value 0x0000000000800000 (source 'default')
+Set parameter C_MASK3 to value 0x0000000000800000 (source 'default')
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Mon Aug 24 22:58:01 2026
+| Host         : DESKTOP-VA22LR3 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7s50csga324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Cordic_cordic_1_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of Block_Cordic_cordic_1_0 (xilinx.com:ip:cordic:6.0 (Rev. 25)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Mon Aug 24 22:58:01 2026
+| Host         : DESKTOP-VA22LR3 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7s50csga324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Cordic_clk_wiz_0_2'
+
+1. Summary
+----------
+
+SUCCESS in the update of Block_Cordic_clk_wiz_0_2 (xilinx.com:ip:clk_wiz:6.0 (Rev. 17)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Mon Aug 24 22:58:01 2026
+| Host         : DESKTOP-VA22LR3 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7s50csga324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Cordic_c_addsub_0_3'
+
+1. Summary
+----------
+
+SUCCESS in the update of Block_Cordic_c_addsub_0_3 (xilinx.com:ip:c_addsub:12.0 (Rev. 21)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Mon Aug 24 22:58:01 2026
+| Host         : DESKTOP-VA22LR3 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7s50csga324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Cordic_c_addsub_0_2'
+
+1. Summary
+----------
+
+SUCCESS in the update of Block_Cordic_c_addsub_0_2 (xilinx.com:ip:c_addsub:12.0 (Rev. 21)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Mon Aug 24 22:58:01 2026
+| Host         : DESKTOP-VA22LR3 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7s50csga324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Cordic_axi_uartlite_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the update of Block_Cordic_axi_uartlite_0_1 (xilinx.com:ip:axi_uartlite:2.0 (Rev. 39)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Mon Aug 24 22:58:00 2026
+| Host         : DESKTOP-VA22LR3 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7s50csga324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Cordic_axi_smc_1'
+
+1. Summary
+----------
+
+SUCCESS in the update of Block_Cordic_axi_smc_1 (xilinx.com:ip:smartconnect:1.0 (Rev. 28)) to current project options.
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection and Interface Information
+---------------------------------------
+
+Connection and Interface information can not be compared for deferred elaboration IPs.
+Block_Cordic_axi_smc_1 may have connection or interface changes.
+
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Mon Aug 24 22:58:00 2026
+| Host         : DESKTOP-VA22LR3 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7s50csga324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Cordic_axi_gpio_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the update of Block_Cordic_axi_gpio_0_1 (xilinx.com:ip:axi_gpio:2.0 (Rev. 37)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2 (win64) Build 6299465 Fri Nov 14 19:35:11 GMT 2025
+| Date         : Mon Aug 24 22:58:00 2026
+| Host         : DESKTOP-VA22LR3 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7s50csga324-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'Block_Cordic_Phase_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of Block_Cordic_Phase_0 (xilinx.com:ip:xlslice:1.0 (Rev. 5)) to current project options.
+
